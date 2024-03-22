@@ -1,0 +1,32 @@
+{
+	"folders": [
+		{
+			"path": "../Projects"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../Inventory Management"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"AA.C": "cpp"
+		},
+		"java.dependency.syncWithFolderExplorer": false,
+		"java.project.referencedLibraries": {
+			"include": [
+				"lib/**/*.jar",
+				"c:\\Users\\s_ese\\OneDrive\\Desktop\\stdlib.jar"
+			],
+			"exclude": [
+				"lib/stdlib.jar"
+			]
+		},
+		"java.project.sourcePaths": [
+			"src"
+		],
+		"dotnet.defaultSolution": "disable"
+	}
+}
